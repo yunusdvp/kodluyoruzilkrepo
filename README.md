@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo Kodluyoruz eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet readme bir adette index.html dosyası barındırmaktadır.
+Bu repo [Kodluyoruz](www.patika.dev) eğitiminde oluşturduğumuz ilk repo. İçersinde bir adet readme bir adette index.html dosyası barındırmaktadır.
 
 # Installation 
 [Öncelikle projeyi clonelayın.](https://github.com/yunusdvp/kodluyoruzilkrepo.git)
